@@ -10,6 +10,7 @@ name = "pypi"
 "beautifulsoup4" = "*"
 requests = "*"
 pillow = "*"
+"pyqt5" = "*"
 
 
 [dev-packages]

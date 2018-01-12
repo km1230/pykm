@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 from io import BytesIO as bio
 from PIL import Image
 
-search = input('Looking for: ')
+search = ('+').join(input('Looking for: ').split())
 searchEngine = 'https://www.bing.com/images/search?q=' + search + '&FORM=HDRSC2'
 r = requests.get(searchEngine)
 print('Reaching server...')
@@ -16,5 +16,5 @@ if r.status_code == 200:
 		print('Item found...')
 		img = Image.open(bio(imgLink.content))
 		print('Downloading...')
-		img.save(link[-10:-3] + img.format)
+		img.save(link[-15:-5] + '.' + img.format)
 		print('Image saved!')
