@@ -8,3 +8,6 @@ Save the first image result to iOS photos from search engine http://bing.com
 
 - bingImagesPythonista.py:
 [Pythonista]Save the first image result to iOS photos from search engine http://bing.com
+
+- timer.py
+Count down timer to mimic examination, voice output with mac os when count down finishes.
