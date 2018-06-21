@@ -22,7 +22,7 @@ def scaling(frame, percent):
 	width = int(round(frame.shape[1] * percent/100))
 	height = int(round(frame.shape[0] * percent/100))
 	newDimension = (width, height)
-	return cv2.resize(frame, newDimension, interpolation=cv2.INTER_AREA)
+	return cv2.resize(frame, newDimension, interpolation=cv2.INTER_LINEAR)
 
 
 p = int(input('scale in % (50-100): '))
