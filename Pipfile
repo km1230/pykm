@@ -9,12 +9,14 @@ name = "pypi"
 
 "beautifulsoup4" = "*"
 requests = "*"
-Pillow = "*"
-"PyQt5" = "*"
+pillow = "*"
+"pyqt5" = "*"
 simplejson = "*"
-Django = "*"
+django = "*"
 matplotlib = "*"
-pyOpenSSL = "*"
+pyopenssl = "*"
+opencv-python = "*"
+numpy = "*"
 
 
 [dev-packages]
