@@ -1,3 +1,7 @@
 __pycache__
 *.JPEG
 pyqt5.py
+*.zip
+.ipynb_checkpoints
+cascades
+*.avi

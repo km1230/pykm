@@ -17,6 +17,11 @@ matplotlib = "*"
 pyopenssl = "*"
 opencv-python = "*"
 numpy = "*"
+sklearn = "*"
+scipy = "*"
+pandas = "*"
+python-pygaze = "*"
+pygame = "*"
 
 
 [dev-packages]
