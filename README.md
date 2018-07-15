@@ -15,3 +15,6 @@ Count down timer to mimic examination, voice output with mac os when count down 
   
 * **camera.py:**  
 Video Capture using OpenCV http://opencv-python-tutroals.readthedocs.io/
+
+* **gazePrediction.py**
+Using OpenCV and sklearn to predict gaze inside or out of the centre
