@@ -35,4 +35,3 @@ process = threading.Thread(target=download)
 process.start()
 while process.isAlive():
 	loading()
-process.stop()
