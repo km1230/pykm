@@ -1,4 +1,5 @@
 import requests
+import os
 from bs4 import BeautifulSoup as bs
 from io import BytesIO as bio
 from PIL import Image
@@ -13,6 +14,8 @@ if r.status_code == 200:
 	link = code.find('a', class_='thumb').get('href')
 	imgLink = requests.get(link)
 	if imgLink.status_code == 200:
+		desktop = os.path.expanduser('~/Desktop')
+		os.chdir(desktop)
 		print('Item found...')
 		img = Image.open(bio(imgLink.content))
 		print('Downloading...')
