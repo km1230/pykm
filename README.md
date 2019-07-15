@@ -11,7 +11,7 @@ To access the strength of a password, with logic and rules originated from http:
 
 ## **AnimeDL.py:**  
 To download a whole anime series from website where the episodes are ordered as 1 ~ n.mp4 format
-<img src="https://github.com/km1230/PythonDemo/raw/master/animedl.jpg" alt="AnimeDL" width="450">
+<img src="https://github.com/km1230/PythonDemo/raw/master/bingImages.gif" alt="AnimeDL" width="450">
   
 ## **bingImages.py:**  
 Save the first image result to iOS photos from search engine http://bing.com  
