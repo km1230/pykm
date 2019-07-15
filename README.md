@@ -31,4 +31,4 @@ Using OpenCV and sklearn to predict gaze inside or out of the centre
 
 
 ## Author:
-* [km1230](https://devjunior.com)
+* [DevJunior](https://devjunior.com)
