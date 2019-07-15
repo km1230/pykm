@@ -14,7 +14,7 @@ To download a whole anime series from website where the episodes are ordered as 
 <img src="https://github.com/km1230/PythonDemo/raw/master/animedl.gif" alt="AnimeDL" width="450">
   
 ## **bingImages.py:**  
-Save the first image result to iOS photos from search engine http://bing.com  
+Save the first image result from search engine http://bing.com  
 <img src="https://github.com/km1230/PythonDemo/raw/master/bingImages.gif" alt="AnimeDL" width="450">
   
 ## **bingImagesPythonista.py:**  
