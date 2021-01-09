@@ -1,0 +1,908 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2512
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68286",\
+    "email": "kkau@utas.edu.au",\
+    "firstName": "Kim Kwan",\
+    "lastName": "Au",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68283",\
+    "email": "sterbenX@gmail.com",\
+    "firstName": "Chi Ming",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a5",\
+    "email": "hiyin.chan@gmail.com",\
+    "firstName": "Hi Yin",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a6",\
+    "email": "ydchan@utas.edu.au",\
+    "firstName": "Darwin",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a7",\
+    "email": "timothy.chan@utas.edu.au",\
+    "firstName": "Timothy",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c8",\
+    "email": "manchung05@gmail.com",\
+    "firstName": "Man Chung",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5f0eb2d24aa29e00176a0c1d",\
+    "email": "chan20024@hotmail.com",\
+    "firstName": "Cheuk Lun Alan",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-15T07:40:02.691Z",\
+    "updatedAt": "2020-07-15T07:40:02.691Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5f1bec037f2bc60017eb497b",\
+    "email": "angusccn@gmail.com",\
+    "firstName": "Chun Ngai",\
+    "lastName": "Chan",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-25T08:23:31.228Z",\
+    "updatedAt": "2020-07-25T08:23:31.228Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a0",\
+    "email": "hhttpp_ada@hotmail.com",\
+    "firstName": "Ada",\
+    "lastName": "Cheng",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e63516d7a34de00178b26ab",\
+    "email": "tkccheng@utas.edu.au",\
+    "firstName": "Crystal",\
+    "lastName": "Cheng",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-07T07:46:53.741Z",\
+    "updatedAt": "2020-06-27T04:24:37.217Z",\
+    "__v": 0,\
+    "password": null\
+  \},\
+  \{\
+    "_id": "5ef8302c073cc90017d31baf",\
+    "email": "dcheng1@utas.edu.au",\
+    "firstName": "Daniel",\
+    "lastName": "Cheng",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-06-28T05:52:44.710Z",\
+    "updatedAt": "2020-06-28T05:52:44.710Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68273",\
+    "email": "kccheuk@utas.edu.au",\
+    "firstName": "Rex",\
+    "lastName": "Cheuk",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "password": null\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682af",\
+    "email": "stpc@utas.edu.au",\
+    "firstName": "Portia",\
+    "lastName": "Cheung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68287",\
+    "email": "tinacnp@hotmail.com",\
+    "firstName": "Tina",\
+    "lastName": "Cheung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a3",\
+    "email": "roisincheung@yahoo.com.hk",\
+    "firstName": "Roisin",\
+    "lastName": "Cheung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682be",\
+    "email": "jennycheung1998@gmail.com",\
+    "firstName": "Jenny",\
+    "lastName": "Cheung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828d",\
+    "email": "isaacinhongkong@gmail.com",\
+    "firstName": "Isaac",\
+    "lastName": "Choi",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682ab",\
+    "email": "azchong@utas.edu.au",\
+    "firstName": "Zye Chea Andrew",\
+    "lastName": "Chong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68299",\
+    "email": "ccystephanie@gmail.com",\
+    "firstName": "Cheuk Yan",\
+    "lastName": "Chow",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829d",\
+    "email": "derekchowdc1314520@gmail.com",\
+    "firstName": "Teddy",\
+    "lastName": "Chow",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c1",\
+    "email": "Guccikk2007@yahoo.com.hk",\
+    "firstName": "Kat",\
+    "lastName": "Chow",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827b",\
+    "email": "yychung@utas.edu.au",\
+    "firstName": "Marco",\
+    "lastName": "Chung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68297",\
+    "email": "clement.oyoung@gmail.com",\
+    "firstName": "O'Young",\
+    "lastName": "Clement",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682aa",\
+    "email": "she6183301031@gmail.com",\
+    "firstName": "Lily",\
+    "lastName": "Fong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68295",\
+    "email": "dakota.l.m.g@gmail.com",\
+    "firstName": "Dakota",\
+    "lastName": "Gallagher",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68276",\
+    "email": "SG21@utas.edu.au",\
+    "firstName": "Shif",\
+    "lastName": "Gebreselassie",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e6351837a34de00178b26ac",\
+    "email": "mengxiah@utas.edu.au",\
+    "firstName": "Daisy",\
+    "lastName": "Han",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-07T07:47:15.260Z",\
+    "updatedAt": "2020-03-07T07:47:15.260Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a4",\
+    "email": "r.aymondhip12@gmail.com",\
+    "firstName": "Raymond",\
+    "lastName": "Hip",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827c",\
+    "email": "menonho@gmail.com",\
+    "firstName": "Ming Hong",\
+    "lastName": "Ho",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c4",\
+    "email": "menky123@gmail.com",\
+    "firstName": "Menky",\
+    "lastName": "Hung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828e",\
+    "email": "wyatt.kwok.shing@gmail.com",\
+    "firstName": "Shing Wyatt",\
+    "lastName": "Kwok",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68285",\
+    "email": "cmkwong@utas.edu.au",\
+    "firstName": "Michelle",\
+    "lastName": "Kwong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828a",\
+    "email": "harveylai5@gmail.com",\
+    "firstName": "King Ho",\
+    "lastName": "Lai",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b5",\
+    "email": "kylai0@utas.edu.au",\
+    "firstName": "Kayla",\
+    "lastName": "Lai",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829f",\
+    "email": "winglam0125@gmail.com",\
+    "firstName": "Wing Chim",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829c",\
+    "email": "lamtszching408@gmail.com",\
+    "firstName": "Tsz Ching",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682ad",\
+    "email": "fatlamjai812@gmail.com",\
+    "firstName": "Cheung King",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828c",\
+    "email": "superwallam@gmail.com",\
+    "firstName": "Tsz Kit Wallace",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682ba",\
+    "email": "moonyenlty@gmail.com",\
+    "firstName": "Jean",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c6",\
+    "email": "keungor424@gmail.com",\
+    "firstName": "Stanley",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b7",\
+    "email": "tklam@utas.edu.au",\
+    "firstName": "Chris",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c7",\
+    "email": "lamzizi04@gmail.com",\
+    "firstName": "Tsz Hung",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5ef82248073cc90017d31bac",\
+    "email": "jtclam@utas.edu.au",\
+    "firstName": "Jessica",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-06-28T04:53:28.832Z",\
+    "updatedAt": "2020-06-28T04:53:28.832Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5ef822ac073cc90017d31bae",\
+    "email": "htjlam@utas.edu.au",\
+    "firstName": "Hong",\
+    "lastName": "Lam",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-06-28T04:55:08.643Z",\
+    "updatedAt": "2020-06-28T04:55:08.643Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829b",\
+    "email": "goaus8689@gmail.com",\
+    "firstName": "Golden",\
+    "lastName": "Lau",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68277",\
+    "email": "tylau0@utas.edu.au",\
+    "firstName": "Tung",\
+    "lastName": "Lau",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68296",\
+    "email": "kwlau0@utas.edu.au",\
+    "firstName": "Ken",\
+    "lastName": "Lau",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b3",\
+    "email": "kyl@utas.edu.au",\
+    "firstName": "Afra",\
+    "lastName": "Lau",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b2",\
+    "email": "cathycclau@yahoo.com.hk",\
+    "firstName": "Chi Ching",\
+    "lastName": "Lau",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e68c7177458f6001740104a",\
+    "email": "terrylee001205@gmail.com",\
+    "firstName": "Lam Fung",\
+    "lastName": "Lee",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-11T11:10:15.453Z",\
+    "updatedAt": "2020-03-11T11:10:15.453Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829e",\
+    "email": "sengin.lei@utas.edu.au",\
+    "firstName": "Walter",\
+    "lastName": "Lei",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68293",\
+    "email": "chiyu404@gmail.com",\
+    "firstName": "Chi Yu",\
+    "lastName": "Leung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827d",\
+    "email": "cwleung0@utas.edu.au",\
+    "firstName": "Stephanie",\
+    "lastName": "Leung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682bc",\
+    "email": "jessicaleung97@yahoo.com.hk",\
+    "firstName": "Jessica",\
+    "lastName": "Leung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682bf",\
+    "email": "jjleungcarter@hotmail.com",\
+    "firstName": "JJ",\
+    "lastName": "Leung",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682ac",\
+    "email": "chli@utas.edu.au",\
+    "firstName": "Max",\
+    "lastName": "Li",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5f1bebc37f2bc60017eb497a",\
+    "email": "kfli@utas.edu.au",\
+    "firstName": "Kam Fai",\
+    "lastName": "Li",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-25T08:22:27.593Z",\
+    "updatedAt": "2020-07-25T08:22:27.593Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a8",\
+    "email": "lui_davin@hotmail.com",\
+    "firstName": "Davin",\
+    "lastName": "Lui",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682ae",\
+    "email": "chloeluiny@gmail.com",\
+    "firstName": "Chloe",\
+    "lastName": "Lui",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68282",\
+    "email": "skma@utas.edu.au",\
+    "firstName": "Kendric",\
+    "lastName": "Ma",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "password": null,\
+    "updatedAt": "2020-03-06T14:44:12.473Z"\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b0",\
+    "email": "smsamma1999@gmail.com",\
+    "firstName": "Sam",\
+    "lastName": "Ma",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68274",\
+    "email": "hoiyan.mo@utas.edu.au",\
+    "firstName": "Kavie",\
+    "lastName": "Mo",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "password": null,\
+    "updatedAt": "2020-03-06T11:23:03.013Z"\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68298",\
+    "email": "arther.ng@gmail.com",\
+    "firstName": "Arther",\
+    "lastName": "Ng",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827f",\
+    "email": "wkng0@utas.edu.au",\
+    "firstName": "Vicky",\
+    "lastName": "Ng",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682bb",\
+    "email": "nosonnoson@gmail.com",\
+    "firstName": "Noson",\
+    "lastName": "Ng",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "password": null,\
+    "updatedAt": "2020-03-06T10:10:07.038Z"\
+  \},\
+  \{\
+    "_id": "5e6b0ecfbb39a30017ba1c3e",\
+    "email": "yimn@utas.edu.au",\
+    "firstName": "Yim Fong",\
+    "lastName": "Ng",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-13T04:40:47.370Z",\
+    "updatedAt": "2020-03-13T04:40:47.370Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682bd",\
+    "email": "ningheiman@gmail.com",\
+    "firstName": "Lemon",\
+    "lastName": "Ning",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e68c6667458f60017401049",\
+    "email": "pakyuenngai@icloud.com",\
+    "firstName": "Ngai",\
+    "lastName": "Pak Yuen",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-11T11:07:18.512Z",\
+    "updatedAt": "2020-03-11T11:07:18.512Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5ef82272073cc90017d31bad",\
+    "email": "mwrpang@utas.edu.au",\
+    "firstName": "Miu",\
+    "lastName": "Pang",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-06-28T04:54:10.758Z",\
+    "updatedAt": "2020-06-28T04:54:10.758Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5f06c8f45090af0017187f38",\
+    "email": "vergiluse@gmail.com",\
+    "firstName": "Vergil",\
+    "lastName": "Pang",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-09T07:36:20.741Z",\
+    "updatedAt": "2020-07-09T07:36:20.741Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b8",\
+    "email": "oypoon@utas.edu.au",\
+    "firstName": "Tracy",\
+    "lastName": "Poon",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68294",\
+    "email": "seksky333@gmail.com",\
+    "firstName": "Chester",\
+    "lastName": "Sek",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6829a",\
+    "email": "siufai0@hotmail.com",\
+    "firstName": "Simon",\
+    "lastName": "Siu",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b6",\
+    "email": "lyso@utas.edu.au",\
+    "firstName": "Lulu",\
+    "lastName": "So",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827e",\
+    "email": "hytai@utas.edu.au",\
+    "firstName": "Tammy",\
+    "lastName": "Tai",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5eef4a11cc706b0017b0d1e4",\
+    "email": "tamlapwai@gmail.com",\
+    "firstName": "Gilbert",\
+    "lastName": "Tam",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-06-21T11:52:49.967Z",\
+    "updatedAt": "2020-06-21T11:52:49.967Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68279",\
+    "email": "eugene9620@gmail.com",\
+    "firstName": "Eugene",\
+    "lastName": "Tan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a2",\
+    "email": "hildatang1129@gmail.com",\
+    "firstName": "Hilda",\
+    "lastName": "Tang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a9",\
+    "email": "tanglikyan@gmail.com",\
+    "firstName": "Lik Yan",\
+    "lastName": "Tang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b4",\
+    "email": "elainetang624@gmail.com",\
+    "firstName": "Elaine",\
+    "lastName": "Tang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5f1bec637f2bc60017eb497d",\
+    "email": "anakinchihin@gmail.com",\
+    "firstName": "Chi Hin",\
+    "lastName": "Tang",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-25T08:25:07.031Z",\
+    "updatedAt": "2020-07-25T08:25:07.031Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c5",\
+    "email": "vinctong28@gmail.com",\
+    "firstName": "Vincent",\
+    "lastName": "Tong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828b",\
+    "email": "dominic020896@gmail.com",\
+    "firstName": "Dominic",\
+    "lastName": "Tsang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68284",\
+    "email": "tsangcw@utas.edu.au",\
+    "firstName": "Chiu Wa",\
+    "lastName": "Tsang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682a1",\
+    "email": "tse.ngaman@gmail.com",\
+    "firstName": "Nga Man",\
+    "lastName": "Tse",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e6351ac7a34de00178b26ad",\
+    "email": "heinekenk3@gmail.com",\
+    "firstName": "Kenneth",\
+    "lastName": "Tse",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-03-07T07:47:56.782Z",\
+    "updatedAt": "2020-03-07T07:47:56.782Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68281",\
+    "email": "ace88900@gmail.com",\
+    "firstName": "Shek Fung",\
+    "lastName": "Tsoi",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5f1bec3a7f2bc60017eb497c",\
+    "email": "renatsuiwn@gmail.com",\
+    "firstName": "Wan Nga",\
+    "lastName": "Tsui",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-25T08:24:26.021Z",\
+    "updatedAt": "2020-07-25T08:24:26.021Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68272",\
+    "email": "utashksa@gmail.com",\
+    "firstName": "HKSA",\
+    "lastName": "UTAS",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 200,\
+    "password": "$2a$10$NiT62p6KPgq5lLylM5wyKeFW.Eo.hE5DIc1qGaZjbUuHwXQFfx9d6"\
+  \},\
+  \{\
+    "_id": "5f0d155fe636bb00177bc8e8",\
+    "email": "lhswan@utas.edu.au",\
+    "firstName": "Samuel Lik Hang",\
+    "lastName": "Wan",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-14T02:15:59.552Z",\
+    "updatedAt": "2020-07-14T02:22:29.549Z",\
+    "__v": 0,\
+    "password": null\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68291",\
+    "email": "calvin11d@hotmail.com",\
+    "firstName": "Calvin",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68280",\
+    "email": "wyuon1989@yahoo.com.hk",\
+    "firstName": "Orvin",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68290",\
+    "email": "tsingyin.w@gmail.com",\
+    "firstName": "Natalie",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68275",\
+    "email": "bryan.vivixx@gmail.com",\
+    "firstName": "Bryan",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68289",\
+    "email": "Dorismlw@gmail.com",\
+    "firstName": "Doris",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6828f",\
+    "email": "lucaswong1030@gmail.com",\
+    "firstName": "Lucas",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68292",\
+    "email": "wongwailung1996@gmail.com",\
+    "firstName": "Wai Lung",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b9",\
+    "email": "cywong1@utas.edu.au",\
+    "firstName": "Raymond",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5f06c5a85090af0017187f37",\
+    "email": "mtwong@outlook.com",\
+    "firstName": "Man Tai",\
+    "lastName": "Wong",\
+    "expiry": "2021-01-30T13:00:00.000Z",\
+    "level": 100,\
+    "createdAt": "2020-07-09T07:22:16.811Z",\
+    "updatedAt": "2020-07-09T07:22:16.811Z",\
+    "__v": 0\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e6827a",\
+    "email": "awoo0@utas.edu.au",\
+    "firstName": "Aaron",\
+    "lastName": "Woo",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682c2",\
+    "email": "michael981030@hotmail.com.hk",\
+    "firstName": "Michael",\
+    "lastName": "Wu",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e682b1",\
+    "email": "ruoqingy@utas.edu.au",\
+    "firstName": "Ruoqing",\
+    "lastName": "Yang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68278",\
+    "email": "dyuen@utas.edu.au",\
+    "firstName": "Daniel",\
+    "lastName": "Yuen",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \},\
+  \{\
+    "_id": "5e620dd9526f1e2ca8e68288",\
+    "email": "jeremyofnewcastle@gmail.com",\
+    "firstName": "Dongming",\
+    "lastName": "Zhang",\
+    "expiry": "2021-01-31T00:00:00.000Z",\
+    "level": 100\
+  \}\
+]}
