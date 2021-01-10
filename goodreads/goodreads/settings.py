@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app.apps.AppConfig',
+    'api.apps.ApiConfig',
+    'django_filters'
 ]
 
 MIDDLEWARE = [
@@ -115,8 +116,8 @@ REST_FRAMEWORK = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'shopDB',
-        'USER': 'postgres',
+        'NAME': 'goodreads',
+        'USER': 'kaviemo',
         'PASSWORD': env('DBPASSWORD'),
         'HOST': '127.0.0.1',
         'PORT': '5432',

@@ -16,9 +16,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from app import views 
+from api import views 
 
-router = routers.DefaultRouter(trailing_slash=False)
+router = routers.DefaultRouter()
 router.register(r'books', views.BookViewSet)
 router.register(r'users', views.UserViewSet)
 router.register(r'categories', views.CategoryViewSet)
