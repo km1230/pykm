@@ -5,3 +5,4 @@ pyqt5.py
 .ipynb_checkpoints
 cascades
 *.avi
+gaze.txt
